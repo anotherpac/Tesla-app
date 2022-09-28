@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Software Solutions, Virginia, USA Office.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients like Leica biosystems and dell.
+<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients all around the world including Tesla.
 	We offer  Training for DevOps with Linux and Cloud computing equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
